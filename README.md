@@ -1,4 +1,4 @@
-# Hide-Your-Pendrive-files-New-tech
+# Hide-Your-Pendrive-files-New-Method without any software
 Hide your pendrice/SD card files new technique 
 # Folder Locker 🔒🗂️
 
