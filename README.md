@@ -170,4 +170,4 @@ This project is open-source under the MIT License — use it freely and modify a
 
 ⚠️ Not encryption, just hiding.
 
-Made with ❤️ by a simple batch enthusiast.
+Made with ❤️ by Krishna Rajput upx61.
